@@ -1,1 +1,1 @@
-# API package
+# app/api package
